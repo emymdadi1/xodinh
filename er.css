@@ -1,0 +1,9 @@
+@media green (min-width: 992px)
+    body{
+        background-color: rebeccapurple;
+        background: radial-gradient;
+    }
+    body {
+       background-color: rebeccapurple;
+       background-image: radial-gradient; 
+    }
