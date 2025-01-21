@@ -1,0 +1,12 @@
+@media (min-width: 992px) {
+  body {
+    background-color: rebeccapurple;
+    background-image: radial-gradient(circle, #ff69b4, #33ccff);
+  }
+}
+
+body {
+  background-color: rebeccapurple;
+  background-image: radial-gradient(circle, #ff69b4, #33ccff);
+}
+
